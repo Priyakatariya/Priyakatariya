@@ -28,12 +28,6 @@
 - Serving as **Mentor in GSSoC (GirlScript Summer of Code)** 🚀  
 - Actively contributing to community-driven projects and mentoring peers  
 
-### 💻 DSA & Competitive Programming  
-- Solved **1000+ DSA problems** across multiple platforms (LeetCode, Codeforces, GFG, CodeChef etc.)  
-- ⭐ **2★ on CodeChef**  
-- 📈 **LeetCode Highest Rating: 1677**  
-- 🔥 Consistently practicing algorithms, data structures & optimization problems  
-
 ---
 
 ## 📊 GitHub Stats  

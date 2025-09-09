@@ -1,28 +1,88 @@
-<h1>Hi 👋, I'm  Priya</h1>
-<p>🎓 I'm Priya, a second-year B.Tech student in Information Technology from NIT Kurukshetra.
-  🌐 Passionate about web development and building a strong foundation in Data Structures and Algorithms. 
-  💻 Skilled in C , C++, Python, HTML, CSS, JavaScript, React, and Firebase.
-  🔍 Exploring backend development and diving into Machine Learning and AI/ML.
-  🧠 Enthusiastic about Competitive Programming and problem-solving.</p>
-<h2>🚀 Tech Stack</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/priya-27a522333" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Priya;B.Tech+Student+%7C+Web+Developer+%7C+DSA+Learner;Exploring+AI+%26+Machine+Learning;Competitive+Programmer+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyakatariya&show_icons=true&locale=en" alt="Priyakatariya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyakatariya&" alt="Priyakatariya" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyakatariya&show_icons=true&locale=en&layout=compact" alt="Priyakatariya" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyakatariya" alt="Priyakatariya" /></a></p>
+---
+
+## 👩‍💻 About Me  
+
+- 🎓 Second-year **B.Tech in Information Technology** @ **NIT Kurukshetra**  
+- 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Firebase**  
+- 🌱 Currently learning **Backend Development, Machine Learning & AI**  
+- 🧩 Love solving **DSA problems & Competitive Programming**  
+- 🚀 Goal: To build impactful projects & contribute to **Open Source**  
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,tailwind,react,nodejs,express,mongodb,nginx,firebase,git&theme=dark" />
+</p>  
+
+---
+
+## 🏆 Achievements  
+
+### 🌱 Open Source Journey  
+- Selected in **SSOC (Summer of Code)** — ranked in **Top 30 contributors** 🎖️  
+- Serving as **Mentor in GSSoC (GirlScript Summer of Code)** 🚀  
+- Actively contributing to community-driven projects and mentoring peers  
+
+### 💻 DSA & Competitive Programming  
+- Solved **1000+ DSA problems** across multiple platforms (LeetCode, Codeforces, GFG,Codechef etc.)  
+- ⭐ **2★ on CodeChef**  
+- 📈 **LeetCode Highest Rating: 1677**  
+- 🔥 Consistently practicing algorithms, data structures & optimization problems  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyakatariya&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyakatariya&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyakatariya&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyakatariya&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+
+## ✨ Inspiration  
+
+> 💡 *“First, solve the problem. Then, write the code.”* – John Johnson  
+
+> 🚀 *“Talk is cheap. Show me the code.”* – Linus Torvalds  
+
+> 🌱 *“Great developers never stop learning.”*  
+
+> 🌟 *“The future belongs to those who believe in the beauty of their dreams.”* – Eleanor Roosevelt  
+
+> 🔥 *“Success is not final, failure is not fatal: it is the courage to continue that counts.”* – Winston Churchill  
+
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priya-27a522333">
+    <img src="https://img.shields.io/badge/-Priya%20Katariya-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Priyakatariya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>

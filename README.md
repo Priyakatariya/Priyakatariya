@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me  
 
 - 🎓 Second-year **B.Tech in Information Technology** @ **NIT Kurukshetra**  
-- 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Firebase**  
+- 💻 Skilled in **C, C++, Java, Python, HTML, CSS, JavaScript, React, Next.js, Firebase**  
 - 🌱 Currently learning **Backend Development, Machine Learning & AI**  
 - 🧩 Love solving **DSA problems & Competitive Programming**  
 - 🚀 Goal: To build impactful projects & contribute to **Open Source**  
@@ -16,7 +16,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,tailwind,react,nodejs,express,mongodb,nginx,firebase,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,nginx,firebase,git&theme=dark" />
 </p>  
 
 ---
@@ -29,7 +29,7 @@
 - Actively contributing to community-driven projects and mentoring peers  
 
 ### 💻 DSA & Competitive Programming  
-- Solved **1000+ DSA problems** across multiple platforms (LeetCode, Codeforces, GFG,Codechef etc.)  
+- Solved **1000+ DSA problems** across multiple platforms (LeetCode, Codeforces, GFG, CodeChef etc.)  
 - ⭐ **2★ on CodeChef**  
 - 📈 **LeetCode Highest Rating: 1677**  
 - 🔥 Consistently practicing algorithms, data structures & optimization problems  
@@ -57,7 +57,6 @@
 
 ---
 
-
 ## ✨ Inspiration  
 
 > 💡 *“First, solve the problem. Then, write the code.”* – John Johnson  
@@ -69,7 +68,6 @@
 > 🌟 *“The future belongs to those who believe in the beauty of their dreams.”* – Eleanor Roosevelt  
 
 > 🔥 *“Success is not final, failure is not fatal: it is the courage to continue that counts.”* – Winston Churchill  
-
 
 ---
 

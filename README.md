@@ -26,9 +26,11 @@
 
 ## 🏆 Achievements  
 ## 🚀 Competitive Programming
-- ⭐ **CodeChef**: 3-Star Coder (**Peak Rating: 1725**)
-- 🔵 **Codeforces**: Pupil (**Max Rating: 1305**)
-- 
+
+- 🟠 **LeetCode**: Peak Rating **1805** (Top 10.1% Globally)
+- ⭐ **CodeChef**: 3-Star Coder 
+- 🔵 **Codeforces**: Pupil 
+  
 ## 🌱 Open Source Journey
 
 - 🎖️ Ranked **26 among 1000+ contributors** in **Social Summer of Code (SSoC ’25)**

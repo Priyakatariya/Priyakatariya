@@ -5,11 +5,14 @@
 
 ## 👩‍💻 About Me  
 
-- 🎓 Second-year **B.Tech in Information Technology** @ **NIT Kurukshetra**  
-- 💻 Skilled in **C, C++, Java, Python, HTML, CSS, JavaScript, React, Next.js, Firebase**  
-- 🌱 Currently learning **Backend Development, Machine Learning & AI**  
-- 🧩 Love solving **DSA problems & Competitive Programming**  
-- 🚀 Goal: To build impactful projects & contribute to **Open Source**  
+
+- 🎓 Pursuing **Bachelor of Technology in Information Technology** at **NIT Kurukshetra**
+- 💡 Interested in **Full Stack Development, Open Source, AI/ML, and System Design**
+- 🏆 Active in **Competitive Programming**
+- 🌱 Currently learning **Backend Development, Machine Learning & Cloud Technologies**
+- 🤝 Love collaborating on impactful tech projects and mentoring developers
+- 🚀 Goal: To become a highly skilled software engineer and contribute to meaningful products
+ 
 
 ---
 
@@ -22,14 +25,42 @@
 ---
 
 ## 🏆 Achievements  
+## 🚀 Competitive Programming
+- ⭐ **CodeChef**: 3-Star Coder (**Peak Rating: 1725**)
+- 🔵 **Codeforces**: Pupil (**Max Rating: 1305**)
+- 
+## 🌱 Open Source Journey
 
-### 🌱 Open Source Journey  
-- Selected in **SSOC (Summer of Code)** — ranked in **Top 30 contributors** 🎖️  
-- Serving as **Mentor in GSSoC (GirlScript Summer of Code)** 🚀  
-- Actively contributing to community-driven projects and mentoring peers  
+- 🎖️ Ranked **26 among 1000+ contributors** in **Social Summer of Code (SSoC ’25)**
+- 🚀 Serving as **Mentor in GirlScript Summer of Code (GSSoC ’25)**
+- 🌍 Ranked among **Top 100 contributors globally** in **Social Winter of Code (SWoC ’26)**
+- 🔥 Contributed to multiple community-driven repositories and scalable web platforms
 
 ---
 
+## 🏢 Developer — Alumni Cell Web Team, NIT Kurukshetra
+📅 Oct 2025 – Present
+
+- Working on a **production-grade alumni portal**
+- Implemented **role-based authentication**
+- Built reusable modular components
+- Improved Lighthouse performance scores from **65 → 85+**
+- Helped optimize rendering and state management
+
+---
+# 🚀 Featured Projects
+
+## 🧠 MindEase — Mental Health Platform
+**Tech Stack:** React.js, TypeScript, Firebase, Tailwind CSS, Chart.js
+
+✨ Features:
+- Secure Authentication & Protected Routes
+- Mood Tracking Dashboard
+- Anonymous Community Forum
+- Mentor & Psychologist Appointment Booking
+- Role-Based Access Control
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -51,6 +82,25 @@
 
 ---
 
+# 🎯 Current Focus
+
+- 🚀 Advanced Full Stack Development
+- 🤖 Machine Learning & AI
+- 📚 Data Structures & Algorithms
+- 🌍 Open Source Contributions
+
+---
+
+# 🌟 Leadership & Activities
+
+- 💻 Technical Team Member — Technobyte, NIT Kurukshetra
+- 🧠 Core Member — Colours Mental Health Club
+- ✍️ Editor — Horizon Magazine, NIT Kurukshetra
+- 🤝 Mentor & Community Contributor
+
+---
+
+
 ## ✨ Inspiration  
 
 > 💡 *“First, solve the problem. Then, write the code.”* – John Johnson  
@@ -71,7 +121,7 @@
   <a href="https://www.linkedin.com/in/priya-27a522333">
     <img src="https://img.shields.io/badge/-Priya%20Katariya-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:priyakatariya2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Priyakatariya">

@@ -29,7 +29,7 @@
 
 - 🟠 **LeetCode**: Peak Rating **1805** (Top 10.1% Globally)
 - ⭐ **CodeChef**: 3-Star Coder 
-- 🔵 **Codeforces**: Pupil 
+
   
 ## 🌱 Open Source Journey
 

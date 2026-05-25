@@ -3,8 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me <img src="https://hits.sh/github.com/Priyakatriya/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github"/>
-
+## 👩‍💻 About Me
 
 - 🎓 Pursuing **Bachelor of Technology in Information Technology** at **NIT Kurukshetra**
 - 💡 Interested in **Full Stack Development, Open Source, AI/ML, and System Design**
@@ -75,7 +74,6 @@
 </p>
 
 ---
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyakatariya&theme=transparent"/>
 
 ## 📈 Contribution Graph  
 

@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me  <img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&style=for-the-badge"/>
 
 
 - 🎓 Pursuing **Bachelor of Technology in Information Technology** at **NIT Kurukshetra**

@@ -61,6 +61,18 @@
 - Mentor & Psychologist Appointment Booking
 - Role-Based Access Control
 
+
+## 🌍 Air Quality Prediction System
+**Tech Stack:** Python, XGBoost, Scikit-learn, Pandas, Streamlit, Plotly, Google Earth Engine API
+
+✨ Features:
+- Satellite-Based PM2.5 Prediction using Google Earth Engine API
+- High-Accuracy XGBoost Model with R² Score of 0.9703
+- Spatio-Temporal Data Processing using Pandas & Scikit-learn
+- Feature Importance Analysis identifying AOD as the dominant predictor (~81% contribution)
+- Interactive Streamlit Dashboard for Real-Time Predictions
+- Trend Visualization and Air Quality Analytics with Plotly
+- Hyper-Local Air Quality Forecasting without Physical Monitoring Stations
 ---
 ## 📊 GitHub Stats  
 

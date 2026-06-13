@@ -26,7 +26,7 @@
 ## 🏆 Achievements  
 ## 🚀 Competitive Programming
 
-- 🟠 **LeetCode**: Peak Rating **1805** (Top 10.1% Globally)
+- 🟠 **LeetCode**: Peak Rating ** (Knight)1876** (Top 5.23% Globally)
 - ⭐ **CodeChef**: 3-Star Coder 
 
   
